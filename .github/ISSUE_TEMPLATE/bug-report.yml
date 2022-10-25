@@ -34,7 +34,7 @@ body:
     options:
       - Sanic CLI
       - As a module
-      - `app.run` or `Sanic.serve`
+      - As a script (`app.run` or `Sanic.serve`)
       - ASGI
   validations:
     required: true
